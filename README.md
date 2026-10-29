@@ -1,7 +1,11 @@
 # Olá, eu sou Luiz 👋
 
 ## Sobre mim
-Estudo atualmente programação na linguagem Python em um nível intermediário. Estou me aprimorando em análise de dados, banco de dados e aprendizado de máquina. Além disso, estou iniciando um curso sobre vulnerabilidades de bug e bounty para me aprofundar mais no mundo de tecnologia, mas ainda estou nos primeiros passos. Sou apaixonado por ciências e pesquisa, especialmente nos campos das ciências exatas e biológicas, e tenho um grande interesse pelo meio militar e foguetes.
+Sou só um estudante de Direito que, sabe-se lá como, acabou se aventurando pelo mundo das ciências e da tecnologia. Hoje me vejo interessado por programação, mecatrônica, física, engenharia aeroespacial e tantas outras coisas que às vezes nem sei por onde começar. É meio doido, eu sei. hahaha!
+
+Mas este aqui é meu espacinho na internet. Um lugar para colocar minhas ideias em prática, compartilhar meus projetos, registrar meus aprendizados e, quem sabe, inspirar alguém pelo caminho.
+
+Fique à vontade para explorar! 🐺
 
 ## Estatísticas do GitHub
 
