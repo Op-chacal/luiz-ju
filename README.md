@@ -1,4 +1,4 @@
-# Olá, eu sou Luiz 👋
+# Olá, eu sou Chacal 👋
 
 ## Sobre mim
 Sou só um estudante de Direito que, sabe-se lá como, acabou se aventurando pelo mundo das ciências e da tecnologia. Hoje me vejo interessado por programação, mecatrônica, física, engenharia aeroespacial e tantas outras coisas que às vezes nem sei por onde começar. É meio doido, eu sei. hahaha!
